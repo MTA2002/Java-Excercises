@@ -1,3 +1,8 @@
+/*
+Question:Write a program that prompts the user to enter a list and displays whether the list is sorted 
+or not.
+*/
+//Solution
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
